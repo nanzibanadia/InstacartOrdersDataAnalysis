@@ -62,5 +62,5 @@ Research question: Do people order different foods at different times of day?
 A new pandas dataframe is created and initialized with only the food departments indexed the labels (0 = 12 A.M. , 23 = 11 P.M. )
 The number orders from particular food department during this particular hour is plotted using pandas plot method using both line and bar kind.
 Visualization : It can be visualized that people generally do not order different foods at different times of day but with an exception for a breakfast (black) and meat_seafood (cyan with 'o' marker).
-
+![GitHub Logo](/ins1.png)<br>
 ## 
