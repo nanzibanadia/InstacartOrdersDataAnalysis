@@ -63,4 +63,18 @@ A new pandas dataframe is created and initialized with only the food departments
 The number orders from particular food department during this particular hour is plotted using pandas plot method using both line and bar kind.
 Visualization : It can be visualized that people generally do not order different foods at different times of day but with an exception for a breakfast (black) and meat_seafood (cyan with 'o' marker).
 ![GitHub Logo](/ins1.png)<br>
-## 
+## Result
+It is clear from the previous visualization, that people buy more or less breakfast than meat seafood at different times of the day.
+1. From 7 A. M. to 10 A. M. people order more breakfast than meat and seafood.
+2. From 11 A. M. to 6 P. M. people order meat and seafood more than breakfast.
+![GitHub Logo](/ins2.png)<br>
+
+## Explanation of the results:
+The result make sense before in the morning people are more likely to buy breakfast than meat-seafoods and in the afternoon people are less likely to buy breakfast and more likely to buy meat and seafoods for supper or dinner.
+Take away message:
+It is found that there is more demand for breakfast than meat-seafoods in the morning so keeping a balanced supply at different times is important for these two food departments
+Limitations:
+1. Data does not tell anything about demand for a particular food item, it shows the relation of orders based on different departments
+
+
+
